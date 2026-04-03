@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": [],
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "java.validate.enabled": false,
+  "[java]": {
+    "editor.suggest.enabled": false
+  }
+}
